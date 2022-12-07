@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VerstkaShurupov</string>
+    <string name="client_feedback">Отзывы наших \nклиентов</string>
+    <string name="order_proect">Заказывали проект \nу нас?</string>
+    <string name="confPolitic"><u>Политика конфиденциальности</u></string>
+    <string name="designedByLinar"><u>designed by Linar</u></string>
+</resources>
